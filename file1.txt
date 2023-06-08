@@ -1,0 +1,5 @@
+Writing something 
+- trying to add to git
+- This is version 1
+
+modifing this file
